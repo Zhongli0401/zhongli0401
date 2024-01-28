@@ -6,7 +6,7 @@ Me heh
   - A 19 year old pursuing Computer Science in AI and Low-level Systems Development.
  
 <div align="left">
- <img src="https://skillicons.dev/icons?i=cpp,cs,&theme=dark&perline=5"><br>
+ <img src="https://skillicons.dev/icons?i=cpp,cs,c,&theme=dark&perline=5"><br>
  adding more to the list |>_<|
 </div>
 
@@ -18,7 +18,7 @@ Github
 </h3>
 <div align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=zhongli0401&count_private=true&show_icons=true&line_height=25&show_icons=true&theme=rose_pine" alt="Stats">
- <div align="right">
+ <div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhongli0401&layout=compact&theme=rose_pine" alt="langs">
 </div>
 
