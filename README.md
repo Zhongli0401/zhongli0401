@@ -16,7 +16,7 @@ Github
 <h3>
   Github Stats:
 </h3>
-<div align="left">
+<div align="right">
  <img src="https://github-readme-stats.vercel.app/api?username=zhongli0401&count_private=true&show_icons=true&line_height=24&show_icons=true&theme=rose_pine" alt="Stats">
  <div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhongli0401&layout=compact&theme=rose_pine" alt="langs">
