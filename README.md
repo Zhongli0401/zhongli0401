@@ -3,9 +3,7 @@ Me heh
 -->
   <img align="right" src="https://lanyard.cnrad.dev/api/516840972840206336" alt="Discord Status">
   
-  - A 19 year old pursuing Computer Science in AI and Low-level Systems Development.
-  
-  
+  - A 19 year old  pursuing Computer Science in AI and Low-level Systems Development.
   
   - currentstatus working on some anime ps stuff 
  
@@ -20,7 +18,7 @@ Github
 <h3>
   Github Stats:
 </h3>
-<div align="left">
+<div align="justify">
  <img src="https://github-readme-stats.vercel.app/api?username=zhongli0401&count_private=true&show_icons=true&line_height=24&line_width=20&show_icons=true&theme=noctis_minimus" alt="Stats">
  <div align="justify">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhongli0401&layout=compact&theme=rose_pine" alt="langs">
