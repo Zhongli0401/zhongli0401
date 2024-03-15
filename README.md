@@ -3,9 +3,9 @@ Me heh
 -->
   <img align="right" src="https://lanyard.cnrad.dev/api/516840972840206336" alt="Discord Status">
   
-  - A 19 year old  pursuing Computer Science in AI and Low-level Systems Development.
+  - A 20 year old  pursuing Computer Science in AI and Low-level Systems Development.
   
-  - currentstatus working on some anime ps stuff 
+  - current status working on some anime ps stuff 
  
 <div align="left">
  <img src="https://skillicons.dev/icons?i=cpp,cs,c,&theme=dark&perline=5"><br>
